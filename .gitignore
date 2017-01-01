@@ -1,0 +1,5 @@
+# Remove unne files
+/Soft/
+*.exe
+*.zip
+*.msi
